@@ -1,3 +1,1 @@
-# 09:23
-
-## include lottie animation inside fluttter app
+## Just learn to build flutter UI app
